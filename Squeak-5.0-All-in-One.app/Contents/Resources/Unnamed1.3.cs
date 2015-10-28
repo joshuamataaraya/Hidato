@@ -1,1 +1,0 @@
-'From Squeak5.0 of 6 August 2015 [latest update: #15113] on 26 October 2015 at 12:17 pm'!Object subclass: #MainWindow	instanceVariableNames: ''	classVariableNames: ''	poolDictionaries: ''	category: 'HidatoClasses'!!MainWindow methodsFor: 'as yet unclassified' stamp: 'JMA 10/26/2015 12:15'!helloTranscript show: 'hola'.! !
